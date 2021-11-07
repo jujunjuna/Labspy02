@@ -2,7 +2,7 @@
 # Program sederhana mencari bilangan terbesar dengan cara menginput 3 bilangan dan menggunakan if
 
 # A.Flow Chart
-![flowchart](flowchart.png)
+![flowchart](flow.png)
 
 # B. Program
 ![program](program.png)
